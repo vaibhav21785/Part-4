@@ -1,0 +1,14 @@
+{
+  "name": "bloglist",
+  "version": "1.0.0",
+  "description": "Full Stack Open Part 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test",
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

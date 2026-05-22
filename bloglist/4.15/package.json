@@ -1,0 +1,24 @@
+{
+  "name": "bloglist",
+  "version": "1.0.0",
+  "description": "Full Stack Open Part 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test",
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14",
+    "supertest": "^7.2.2"
+  }
+}
